@@ -11,3 +11,14 @@ a:hover {
     text-decoration: underline;
     transition: all 0.5s;
 }
+button {
+    background-color: none;
+    transition: all 0.2s;
+    position: absolute;
+    right: 20px;
+    margin-top: 0px;
+}
+button:hover {
+    padding: 0px 20px 0px 20px;
+    transition: all 0.2s;
+}

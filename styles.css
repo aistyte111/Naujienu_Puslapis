@@ -47,5 +47,9 @@ nav ul li input{
 .divas{
     border: 2px solid black;
     margin-top: 20px;
+    padding: 50px;
 }
-
+#komentarai {
+    position: absolute;
+    right: 20px;
+}
